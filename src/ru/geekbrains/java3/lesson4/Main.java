@@ -37,4 +37,3 @@ public class Main {
             new Thread(new WaitNotifyClass('C', 'A')).start();
         }
     }
-}
